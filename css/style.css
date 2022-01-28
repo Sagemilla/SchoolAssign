@@ -15,6 +15,16 @@
     padding: 0;
 }
 
-.line{
-    text-decoration: none;
+.sign{
+    background-color: rgb(21, 21, 131);
+}
+
+.now{
+    background-color:rgba(158, 152, 152, 0.487);
+    border-radius: 2px;
+    border: none;
+}
+
+.box{
+    box-shadow: 1px solid grey;
 }
